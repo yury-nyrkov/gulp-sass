@@ -1,7 +1,7 @@
 {
   "name": "gulp-sass",
   "version": "2.3.2",
-  "description": "Gulp plugin for sass",
+  "description": "Gulp plugin for sass (forked 2.3.2 to strict the node-sass dep version to 3.4.2",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test"
